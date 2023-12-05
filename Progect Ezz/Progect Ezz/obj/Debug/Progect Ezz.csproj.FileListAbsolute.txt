@@ -1,0 +1,61 @@
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\Progect Ezz.exe.config
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\Progect Ezz.exe
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\Progect Ezz.pdb
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Forget password.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\home.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\log in.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\setting.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Welcome.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz_MarkupCompile.cache
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz_MarkupCompile.lref
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Forget password.baml
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\home.baml
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\log in.baml
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\setting.baml
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Welcome.baml
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.g.resources
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect_Ezz.Properties.Resources.resources
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.exe
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.pdb
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Sign_up_xaml.g.cs
+C:\Users\IT\Desktop\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Sign_up_xaml.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\Progect Ezz.exe.config
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\Progect Ezz.exe
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\Progect Ezz.pdb
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.AssemblyReference.cache
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.SuggestedBindingRedirects.cache
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Forget password.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\home.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\log in.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\MainWindow.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\setting.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Sign_up_xaml.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Welcome.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\App.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz_MarkupCompile.cache
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz_MarkupCompile.lref
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Forget password.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\home.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\log in.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\MainWindow.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\setting.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Sign_up_xaml.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Welcome.baml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.g.resources
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect_Ezz.Properties.Resources.resources
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.GenerateResource.cache
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.CoreCompileInputs.cache
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.exe
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.pdb
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\EntityFramework.dll
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\EntityFramework.xml
+D:\Ezz project\Progect Ezz\Progect Ezz\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz_Content.g.cs
+D:\Ezz project\Progect Ezz\Progect Ezz\obj\Debug\Progect Ezz.csproj.CopyComplete

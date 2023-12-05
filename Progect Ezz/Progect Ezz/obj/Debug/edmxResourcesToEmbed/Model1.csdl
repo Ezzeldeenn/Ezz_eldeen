@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="with_us" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Usere">
+    <Key>
+      <PropertyRef Name="Use_id" />
+    </Key>
+    <Property Name="User_Pass" Type="Int32" />
+    <Property Name="Use_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="f_name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="l_name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="passworde" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Addresse" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="Project_with_usEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Useres" EntityType="Self.Usere" />
+  </EntityContainer>
+</Schema>

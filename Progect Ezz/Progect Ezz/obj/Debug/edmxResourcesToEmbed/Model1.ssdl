@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="with_us.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Usere">
+    <Key>
+      <PropertyRef Name="Use_id" />
+    </Key>
+    <Property Name="User_Pass" Type="int" />
+    <Property Name="Use_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="f_name" Type="varchar" MaxLength="100" />
+    <Property Name="l_name" Type="varchar" MaxLength="100" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+    <Property Name="passworde" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Addresse" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="int" />
+  </EntityType>
+  <EntityContainer Name="with_usStoreContainer">
+    <EntitySet Name="Usere" EntityType="Self.Usere" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

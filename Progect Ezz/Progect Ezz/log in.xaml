@@ -1,0 +1,28 @@
+﻿<Page x:Class="Progect_Ezz.log_in"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Progect_Ezz"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="600"
+      Title="log_in">
+
+    <Grid Background="#FFF3E7E7" Margin="0,0,-55,-46">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="126*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="99*"/>
+            <RowDefinition Height="38*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="161,31,0,0" VerticalAlignment="Top" Height="34" Width="93" FontSize="20" Grid.Row="2"/>
+        <Image HorizontalAlignment="Left" Height="240" Margin="103,0,0,0" VerticalAlignment="Top" Width="492" Source="/Screenshot 2023-12-03 100142.png"/>
+        <Label Content="Email | phone" HorizontalAlignment="Left" Margin="161,48,0,0" VerticalAlignment="Top" Height="34" Width="139" FontSize="20" Grid.Row="1"/>
+        <TextBox x:Name="Email_txt" HorizontalAlignment="Left" Margin="302,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Height="34" FontSize="20" Grid.Row="1"/>
+        <TextBox x:Name="password_txt" HorizontalAlignment="Left" Margin="306,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Height="34" FontSize="20" Grid.Row="2"/>
+        <Button Content="Log_in" HorizontalAlignment="Center" Margin="0,84,0,0" VerticalAlignment="Top" Height="34" Width="230" FontSize="20" FontWeight="Bold" Foreground="#FF0D0E11" Background="#FF4984C1" Grid.Row="2" Click="Button_Click_1"/>
+        <Button Content="Forget password" HorizontalAlignment="Center" Margin="0,139,0,0" VerticalAlignment="Top" Height="33" Width="182" Foreground="#FF4683C1" FontSize="20" Grid.Row="2" Click="Button_Click_2"/>
+        <Button Content="SIgn-up " HorizontalAlignment="Left" Margin="431,21,0,0" VerticalAlignment="Top" Height="45" Width="224" FontSize="20" FontWeight="Bold" Click="Button_Click" Grid.Row="3"/>
+
+    </Grid>
+</Page>
